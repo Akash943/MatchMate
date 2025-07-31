@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MatchMate</string>
+    <string name="accept">Accept</string>
+    <string name="decline">Decline</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="pending">PENDING</string>
+    <string name="no_internet">No internet connection</string>
+    <string name="max_page_reached">Max page reached</string>
+    <string name="retry">Retry</string>
+</resources>
