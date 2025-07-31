@@ -6,24 +6,24 @@ The project is designed to demonstrate clean architecture, robust offline suppor
 
 - Features
 
-- Modern MVVM Architecture with Repository Pattern
-- Paginated User Listing with RecyclerView
-- Offline Caching via Room Database
-- Background Sync with WorkManager (Auto-syncs when online)
-- Accept/Decline Functionality with Status Persistence
-- Seamless Offline Mode (Interact without internet)
-- Error Handling with Snackbars
-- Modern Material Design UI (Toolbar, Buttons, CardView)
+1. Modern MVVM Architecture with Repository Pattern
+2. Paginated User Listing with RecyclerView
+3. Offline Caching via Room Database
+4. Background Sync with WorkManager (Auto-syncs when online)
+5. Accept/Decline Functionality with Status Persistence
+6. Seamless Offline Mode (Interact without internet)
+7. Error Handling with Snackbars
+8. Modern Material Design UI (Toolbar, Buttons, CardView)
 
 - Tech Stack
 
-Language: Kotlin
-Architecture: MVVM (Model-View-ViewModel)
-Networking: Retrofit + Coroutines
-Local Storage: Room Persistence Library
-Background Work: WorkManager
-UI Components: RecyclerView, Material Components
-Image Loading: Glide
+1. Language: Kotlin
+2. Architecture: MVVM (Model-View-ViewModel)
+3. Networking: Retrofit + Coroutines
+4. Local Storage: Room Persistence Library
+5. Background Work: WorkManager
+6. UI Components: RecyclerView, Material Components
+7. Image Loading: Glide
 
 - How It Works
 
